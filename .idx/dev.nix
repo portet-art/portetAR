@@ -42,9 +42,3 @@
     };
   };
 }
-<a-assets>
-  <img id="transparent_image" src="./assets/export1.png">
-</a-assets> 
-<a-marker  preset="kanji" size="0.8">
-  <a-image src="#transparent_image" rotation="90 0 0" width="2" height="2"></a-image>
-</a-marker>
